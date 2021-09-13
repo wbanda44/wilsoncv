@@ -6,9 +6,9 @@
   --header-height: 3rem;
   
   /*========== Colors ==========*/
-  --title-color: #0B0A0A;
-  --text-color: #403A3A;
-  --text-color-light: #707070;
+  --title-color: #000;
+  --text-color: #000;
+  --text-color-light: #000;
   --container-color: #FAFAFA;
   --container-color-alt: #F0EFEF;
   --body-color: #FCFCFC;
